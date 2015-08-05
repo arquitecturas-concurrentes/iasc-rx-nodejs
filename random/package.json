@@ -1,0 +1,10 @@
+{
+  "name": "node-rx",
+  "version": "1.0.0",
+  "description": "Ejemplo de RxJS + Node",
+  "main": "index.js",
+  "dependencies": {
+    "rx-node": "~1.0.1",
+    "rx": "~3.0.0"
+  }
+}
