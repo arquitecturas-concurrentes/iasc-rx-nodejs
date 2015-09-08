@@ -1,0 +1,16 @@
+{
+  "name": "node-rx",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha spec/**/*-spec.js"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "description": "Ejemplo de RxJS + Node",
+  "main": "index.js",
+  "dependencies": {
+    "rx-node": "~1.0.1",
+    "rx": "~3.0.0"
+  }
+}
